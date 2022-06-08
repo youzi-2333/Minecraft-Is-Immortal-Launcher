@@ -6,9 +6,7 @@
 ### 下载
 您可以通过本项目的[git仓库](https://github.com/youzi520/Minecraft-Is-Immortal-Launcher)以下载启动器。启动器无需安装，但是目前暂无稳定版本，因为开发者未找到部分文件的下载源，包括：
 - .minecraft目录下的文件
-- Forge下载源
 - Fabric下载源
-- Optifine下载源
 - ……
 
 如果您找到了这些文件的下载源，您可以[邮箱联系](mailto:youzi5201086@163.com)开发者。
