@@ -38,6 +38,6 @@
 - [vicky静静](https://space.bilibili.com/18157332)  给启动器起了个名字，解决了困扰我长达3分钟的问题
 
 ### 反馈与投稿
-由于启动器尚不完善，可能存在许多特性，您可以通过[反馈表单](https://www.wenjuan.com/s/UZBZJvwYKX/#)进行反馈哦
-启动器帮助页面有关于Minecraft或启动器等多个分类的帮助文档，可以通过[帮助页面投稿表单](https://www.wenjuan.com/s/UZBZJviGd0/#)进行投稿哦
-<!--编辑时可以查看编辑区右下角的M↓图标查看帮助-->
+由于启动器尚不完善，可能存在许多特性，您可以通过[反馈表单](https://www.wenjuan.com/s/UZBZJvwYKX/#)进行反馈哦！
+启动器帮助页面有关于Minecraft或启动器等多个分类的帮助文档，可以通过[帮助页面投稿表单](https://www.wenjuan.com/s/UZBZJviGd0/#)进行投稿哦！
+<!--编辑时可以查看编辑区右下角的M↓图标查看帮助，为避免多次修改，请点击Preview按钮进行预览！-->
