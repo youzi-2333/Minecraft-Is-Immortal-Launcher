@@ -1,8 +1,2 @@
 #ignored files
-
-#source code
-*.bat
-*.cmd
-*.cpp
-
-#Nothin' else
+#Nothin'
