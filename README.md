@@ -4,12 +4,7 @@
 ### 用户协议与免责声明
 关于用户协议与免责声明，请参阅[LICENSE](LICENSE)。
 ### 下载
-您可以通过本项目的[git仓库](https://github.com/youzi520/Minecraft-Is-Immortal-Launcher)以下载启动器。启动器无需安装，但是目前暂无稳定版本，因为开发者未找到部分文件的下载源，包括：
-- .minecraft目录下的文件
-- Fabric下载源
-- ……
-
-如果您找到了这些文件的下载源，您可以[邮箱联系](mailto:youzi5201086@163.com)开发者。
+您可以通过本项目的[git仓库](https://github.com/youzi520/Minecraft-Is-Immortal-Launcher)以下载启动器。启动器无需安装，但是首次运行必须连接互联网并且确保可以下载文件，否则将会导致.minecraft目录无法补全！
 ## Minecraft
 您可以参照下方给出的任务列表进行操作的熟悉：
 1. 给自己起个名字
