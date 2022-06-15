@@ -1,6 +1,6 @@
 # Minecraft-Is-Immortal-Launcher
 ## 开始
-欢迎使用[柚子柚子](https://space.bilibili.com/1377882998)与[AN-602](https://space.bilibili.com/1245560652)为您提供的MIIL启动器！如果您对该项目有兴趣，您可以阅读以下介绍以更加了解本项目。
+欢迎使用[柚子柚子](https://space.bilibili.com/1377882998)、[AN-602](https://space.bilibili.com/1245560652)、[hector](mailto:hector181702@outlook.com)为您提供的MIIL启动器！如果您对该项目有兴趣，您可以阅读以下介绍以更加了解本项目。
 ### 用户协议与免责声明
 关于用户协议与免责声明，请参阅[LICENSE](LICENSE)。
 ### 下载
